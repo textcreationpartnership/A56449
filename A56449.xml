@@ -1,0 +1,388 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at the funeral of that faithful servant of Christ, Robert Breton, D.D. Pastor of Deptford in the county of Kent, Febr. 20. 1671/2. By Richard Parr, D.D. of Camerwel in the county of Surrey.</title>
+            <author>Parr, Richard, 1617-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 48 KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56449</idno>
+            <idno type="STC">Wing P549</idno>
+            <idno type="STC">ESTC R216956</idno>
+            <idno type="EEBO-CITATION">99828668</idno>
+            <idno type="PROQUEST">99828668</idno>
+            <idno type="VID">33099</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56449)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33099)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1931:36)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at the funeral of that faithful servant of Christ, Robert Breton, D.D. Pastor of Deptford in the county of Kent, Febr. 20. 1671/2. By Richard Parr, D.D. of Camerwel in the county of Surrey.</title>
+                  <author>Parr, Richard, 1617-1691.</author>
+               </titleStmt>
+               <extent>[8], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by W. Godbid, for N Brook, at the Angel in Cornhil.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>M. D. C. LXX. II. [1672]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Roman numerals in imprint date printed with reversed "c"s.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bretton, Robert, 1628 or 9-1672 --  Early works to 1800.</term>
+               <term>Funeral sermons --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33099:1" rendition="simple:additions"/>
+            <p>A SERMON Preached at the FUNERAL OF That Faithful Servant of Chriſt, <hi>ROBERT BRETON,</hi> D.D. Paſtor of <hi>Deptford</hi> in the County of <hi>Kent, Febr.</hi> 20. 1671/2.</p>
+            <p>
+               <hi>By</hi> RICHARD PARR, <hi>D.D. of</hi> Camerwel <hi>in the County of</hi> Surrey.</p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>W. Godbid,</hi> for <hi>N Brook,</hi> at the Angel in <hi>Cornhil.</hi> M.DC.LXX.II.</p>
+            <pb facs="tcp:33099:2" rendition="simple:additions"/>
+            <pb facs="tcp:33099:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:33099:3" rendition="simple:additions"/>
+            <pb facs="tcp:33099:3"/>
+            <head>To the Gentry, and all other the Inhabitants of <hi>DEPTFORD,</hi> Who love the Lord Jeſus Chriſt, and the Publick Miniſtery.</head>
+            <opener>
+               <salute>SIRS,</salute>
+            </opener>
+            <p>'<seg rend="decorInit">T</seg>IS not to revive your <hi>grief</hi> at the remem<g ref="char:EOLhyphen"/>brance of your late de<g ref="char:EOLhyphen"/>ceaſed <hi>Paſtor,</hi> that I have offered to your Eye what lately I ſpake to the Ear, but that you might have a <hi>Memorial</hi> with you of his Perſon, of his Piety, and of his Sayings while he was once yours in the
+<pb facs="tcp:33099:4"/>Lord. I profeſs 'twas not any <hi>opi<g ref="char:EOLhyphen"/>nion</hi> I had of the <hi>Diſcourſe,</hi> which as it was <hi>ſudden,</hi> ſo it is <hi>plain;</hi> the things which may make it <hi>acceptable,</hi> are, that it was of <hi>honeſt</hi> deſign and <hi>wholeſom</hi> admonition, in ſuch <hi>looſe</hi> and <hi>careleſs</hi> times as we live in: But that which will <hi>chiefly</hi> take with you, it was grounded on the ſaying of our Lord <hi>Jeſus,</hi> and aimed to make men <hi>wiſe</hi> concerning their <hi>latter end,</hi> and to ſhew their <hi>happineſs</hi> that are preparing for it in <hi>well doing.</hi> But if this ſhould not find reception with you, yet when any <hi>good thing</hi> and <hi>worthy</hi> is ſaid of Doctor <hi>BRETON,</hi> the people of <hi>Dept<g ref="char:EOLhyphen"/>ford</hi> cannot chooſe but make much of it. I know of none that could give him a trivial Character, his Enemies (if he had any) must confeſs, that he was
+<pb facs="tcp:33099:4"/>
+               <hi>blameleſs</hi> in his <hi>life,</hi> an <hi>able</hi> Minister, <hi>apt</hi> to teach, <hi>diligent</hi> and <hi>frequent;</hi> and thoſe that <hi>knew</hi> him well, and <hi>loved</hi> him cordially, can ſay many more <hi>good things</hi> of him. And I have this advantage in my report of him, that I had no occaſion for an <hi>Apology</hi> or <hi>Excuſe</hi> for him, to anſwer any one <hi>Ob<g ref="char:EOLhyphen"/>jection</hi> against him in all his Capacities, as a Pastor, as a Christian, as a Friend; only what I then ſaid, <hi>came ſhort</hi> of what might have been ſaid <hi>better</hi> and more <hi>fully;</hi> which perhaps I could, if his <hi>Funeral</hi> were again to be attended on.</p>
+            <p>But 'tis enough that 'tis ſent to you, who had ſo <hi>great value</hi> for him, and ſo <hi>general affection</hi> to him, that the meanest <hi>gift</hi> for <hi>his ſake</hi> will be <hi>ac<g ref="char:EOLhyphen"/>cepted.</hi>
+            </p>
+            <p>It may be, God hath regarded your
+<pb facs="tcp:33099:5" rendition="simple:additions"/>many <hi>tears</hi> for your <hi>loſs</hi> in ſo <hi>good</hi> a Man, and ſees how <hi>heartily</hi> you <hi>lov'd</hi> him, becauſe your Pastor, and a <hi>faithful</hi> one. — And it may be, God will <hi>pro<g ref="char:EOLhyphen"/>vide</hi> another ſuch <hi>Bleſſing</hi> for you, be<g ref="char:EOLhyphen"/>cauſe you will <hi>eſteem</hi> him highly for his <hi>Work</hi> ſake, for which ye ought to pray; and when you have ſuch another <hi>Guide</hi> for your <hi>Souls,</hi> to give God thanks, and treat him <hi>kindly;</hi> which if you be ſo <hi>happy</hi> to enjoy, I doubt not you will do: for I never yet ſaw ſo great a <hi>lamentation</hi> at once, as at the <hi>Funerals</hi> of Dr. <hi>BRETON:</hi> And when you have another <hi>like</hi> him, I wiſh he may not by a <hi>ſpeedy remove</hi> put you again to a ſecond <hi>ſorrow;</hi> and my Prayers for you are, That as he <hi>taught</hi> you how to <hi>live,</hi> that you might <hi>dye happily,</hi> ſo, that you would <hi>obſerve Practically</hi> what I have
+<pb facs="tcp:33099:5"/>offered in the Diſcourſe; that you would ſo order your affairs, that you may be found of him in <hi>peace</hi> and <hi>well doing,</hi> that you may be for ever <hi>Bleſſed,</hi> as I make no question <hi>He</hi> did, and is; and I hope he will be <hi>found ſo doing,</hi> who was <hi>his,</hi> and is</p>
+            <closer>
+               <signed>Your very affectionate friend in Chriſt, <hi>R. PARR.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:33099:6"/>
+            <pb n="1" facs="tcp:33099:6"/>
+            <head>A SERMON Preached at the Funeral of Doctor ROBERT BRETON, at <hi>Deptford, Febr.</hi> 20. 1671/2</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Text. <hi>Matth. XXIV. 36.</hi>
+                     </hi>
+                  </bibl>
+                  <p>Bleſſed is that ſervant, whom his Lord when he cometh ſhall find ſo doing.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">O</seg>UR bleſſed Lord and Savi<g ref="char:EOLhyphen"/>our, a little before his de<g ref="char:EOLhyphen"/>parture out of the World by the gate of Death, enter<g ref="char:EOLhyphen"/>tains his Diſciples with a <hi>Sermon,</hi> long, full, and weighty; the Contents of that ſerious <hi>Diſ<g ref="char:EOLhyphen"/>courſe</hi>
+               <pb n="2" facs="tcp:33099:7"/>are comprehended in this and the next Chapter after.</p>
+            <p>Wherein he foretells them,</p>
+            <p n="1">1. What ſhould happen to that renowned City <hi>Jeruſalem</hi> and dwellers therein, <hi>viz. That it ſhould be layd in heaps, utterly deſtroyed, —and its Inhabitants ſcattered;</hi> which after<g ref="char:EOLhyphen"/>ward came to paſs as he ſaid.</p>
+            <p n="2">2. He acquaints them alſo what would be the previous notices of that downfal; <hi>There will be falſe Chriſts and falſe Prophets, making great ſhews, doing ſtrange feats, deceiving very many, there will be Wars and there will be wickedneſs, Charity among men will be very rare, but Iniquity will abound, and deep Security will poſſeſs men, ſo that their miſery will come as a furprize all at once, and unavoidable.</hi>
+            </p>
+            <p>And when he had told them of theſe things, which would infallibly come to paſs, he warns them, charging them to be <hi>watch<g ref="char:EOLhyphen"/>ful,</hi> bidding them not to give heed or credit to <hi>deluſions,</hi> nor be tamely betrayed into their <hi>ſinful ſecurity,</hi> nor yield complyance either to <hi>falſe impoſtuers,</hi> or <hi>corrupt morals;</hi> but they ſhould immoveably keep the <hi>Faith,</hi> and do their <hi>duty</hi> as Chriſt had <hi>given</hi> and <hi>commanded.</hi>
+            </p>
+            <pb n="3" facs="tcp:33099:7"/>
+            <p>And he is not careful to anſwer the <hi>curio<g ref="char:EOLhyphen"/>ſity</hi> of his Diſciples, about the <hi>time, year, day,</hi> or <hi>hour</hi> theſe things ſhould be thus <hi>finiſhed;</hi> —this was not fit for them to know. But he commands them to <hi>watch,</hi> and always to be <hi>prepared</hi> for every <hi>change.</hi>
+            </p>
+            <p>This was to them at that time.</p>
+            <p>Yet ſtill as to us, there are <hi>two Events</hi> of things and change of ſtates which every one is concerned in, which will without perad<g ref="char:EOLhyphen"/>venture come upon us moſt certain.</p>
+            <p n="1">1. The one is the final <hi>diſſolution</hi> and <hi>con<g ref="char:EOLhyphen"/>ſumption</hi> of this material viſible <hi>World;</hi> and though this was then a great way off, yet the Apoſtle <hi>Peter</hi> ſaid 'twas <hi>haſtening, ſtealing on,</hi> and as it were <hi>at the door;</hi> and he calls it <hi>the day of the Lord,</hi> 2 Pet. 3.10. <hi>Coming to Judg<g ref="char:EOLhyphen"/>ment,</hi> 1 Theſſ. <hi>The day of the Lord will come, in the which the heavens ſhall paſs away with a great noiſe, and the elements ſhall melt with fer<g ref="char:EOLhyphen"/>vent heat, the earth alſo and the works that are therein:</hi> and then ſee the Application he makes, <hi>verſ.</hi> 11. <hi>Seeing then that all theſe things ſhall be diſſolved, what manner of perſons ought ye to be in all holy converſation and godlineſs?</hi>
+            </p>
+            <p>And our Lord ſaid to them much after
+<pb n="4" facs="tcp:33099:8"/>this manner, <hi>Matth.</hi> 24. <hi>verſ.</hi> 42. <hi>Watch there<g ref="char:EOLhyphen"/>fore, for you know not what hour your Lord doth come; Therefore be ye alſo ready, for in ſuch an hour as you think not the Son of man cometh, verſ.</hi> 44.</p>
+            <p n="2">2. The other <hi>Event infallible</hi> is the <hi>death</hi> and <hi>diſſolution</hi> of every Man living, this is <hi>de<g ref="char:EOLhyphen"/>termined,</hi> there is a Law which makes Death <hi>neceſſary,</hi> Heb. 9.27. <hi>'Tis appointed for all men once to dye;</hi> and the univerſal ſlaughter <hi>death</hi> hath made by the appointment of God ſince the World began, makes it moſt evi<g ref="char:EOLhyphen"/>dent; <hi>Pſal.</hi> 89.49. <hi>What man is he that liveth and ſhall not ſee death? ſhall be de<g ref="char:EOLhyphen"/>liver himſelf from the hand of the grave? Eccleſ.</hi> 8.8. no diſcharge in this. But though this <hi>change</hi> by Death be ever certain, yet the day and hour is concealed from us, that we may wait and make ready, and be every day prepared, for we know not the day wherein we ſhall be taken. One dyeth in his <hi>non-age,</hi> another at <hi>full growth,</hi> one in his <hi>bed,</hi> another in the <hi>field;</hi> the <hi>wiſe</hi> and the <hi>fool,</hi> the <hi>King</hi> and the <hi>Subject,</hi> the <hi>Paſtor</hi> and his <hi>Flock,</hi> &amp;c. all muſt taſte of <hi>Death,</hi> and be layn up in the <hi>grave.</hi>
+            </p>
+            <pb n="5" facs="tcp:33099:8"/>
+            <p>Now the <hi>improvement</hi> wiſe men and good make of theſe <hi>notices</hi> of the <hi>end</hi> of the <hi>World</hi> altogether at once, and of the <hi>end</hi> of every particular <hi>Mans</hi> being in this World, is this, That every man while he hath the <hi>ſpace,</hi> and the <hi>warning,</hi> ſhould eſpecially look after his great <hi>concernment,</hi> how he may be <hi>fit</hi> and <hi>pre<g ref="char:EOLhyphen"/>pared</hi> for ſuch a <hi>change,</hi> ſuch an <hi>encounter;</hi> that ſo <hi>Death</hi> may not <hi>ſpoil</hi> him for ever: —So to <hi>order</hi> our <hi>converſation,</hi> and <hi>diſcharge</hi> our <hi>duty,</hi> and <hi>diſpatch</hi> our <hi>work</hi> which our Lord hath given us to do, that ſo we may <hi>give up our ac<g ref="char:EOLhyphen"/>counts with joy,</hi> alwayes doing what faithful ſervants of our Lord and Maſter <hi>Chriſt</hi> ſhould be doing, that may expect the <hi>bleſſing</hi> here promiſed to ſuch who are <hi>faithful,</hi> and <hi>diligent,</hi> and <hi>conſtant</hi> in <hi>the work of the Lord,</hi> and <hi>finiſh your courſe</hi> ſo doing: And for this the Text is a mighty motive, when it ſaith, <hi>Bleſſed is that ſervant whom his Lord when he cometh ſhall find</hi> ſo doing.</p>
+            <p>Sirs, the Affair I would (at this time) in<g ref="char:EOLhyphen"/>vite you to, and engage you in, is the buſineſs and exerciſe of thoſe <hi>Religious duties</hi> as our Lord and Maſter <hi>Chriſt</hi> hath appointed for us in this preſent life, in order to our <hi>eternal
+<pb n="6" facs="tcp:33099:9"/>happineſs</hi> in the other World, to which this Text gives a direction and an encourage<g ref="char:EOLhyphen"/>ment.</p>
+            <p n="1">1. How are the parties aſſigned to this excellent employment under the title of <hi>Servant,</hi> and in a peculiar manner, <hi>the ſervant of the Lord;</hi> in what place or condition the man be in for <hi>externals,</hi> provided he be <hi>the Lords ſervant?</hi>
+            </p>
+            <p n="2">2. And then, how is the <hi>Bleſſedneſs</hi> de<g ref="char:EOLhyphen"/>ſigned for this <hi>ſervant,</hi> or theſe <hi>ſervants;</hi> — <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which term is compre<g ref="char:EOLhyphen"/>henſive, including <hi>all felicity.</hi> — This ſtock ſpreads it ſelf into many branches, every one bearing fruit of its kind, to make the man compleatly <hi>happy;</hi> the <hi>favour</hi> of God, the <hi>riches</hi> of the <hi>Promiſes,</hi> the <hi>viſion</hi> of God, the <hi>fulneſs</hi> of <hi>Joy.</hi> — The <hi>ſervant</hi> that is <hi>bleſſed</hi> of the Lord thus, ſhall be admitted into the joy of the Lord, and the inheritance of the Saints in glory; <hi>Matth.</hi> 25.34. <hi>Come ye bleſ<g ref="char:EOLhyphen"/>ſed of my Father, inherit the kingdom prepared for you:</hi> and <hi>Rev.</hi> 22.14. <hi>Bleſſed are they that do his Commandments, that they may have right to the tree of life, and may enter in through the gates into the City.</hi>
+            </p>
+            <pb n="7" facs="tcp:33099:9"/>
+            <p n="3">3. The perſons for whom this <hi>Bleſſedneſs</hi> is deſigned; ſuch <hi>ſervants</hi> as are <hi>doing ſer<g ref="char:EOLhyphen"/>vants,</hi> but <hi>well doing;</hi> actively obedient to the Commandments of our Lord, faithful and diligent, conſtant to the end; the <hi>ſer<g ref="char:EOLhyphen"/>vant</hi> doing ſo, ſhall be bleſſed in ſo doing, when the <hi>ſervant</hi> ſhall have finiſhed his courſe, and called home to the <hi>bleſſed pay,</hi> and to receive from his Lord (whom he hath ſerved) that <hi>bountiful reward</hi> and <hi>full bleſſing</hi> of Eternal felicities: <hi>Well done thou good and faithful ſervant, enter thou into the joy of thy Lord,</hi> Matth. 25.21.</p>
+            <p>There is ſuch a connexion between the <hi>duties of Chriſtianity</hi> performed aright and in obedience to our Lord, — and the <hi>bleſſings</hi> promiſed to ſuch, that nothing can cut aſun<g ref="char:EOLhyphen"/>der or disjoyn them; yea, there is ſuch a <hi>bleſſing</hi> that waits upon the faithful, conſtant, diligent <hi>ſervice</hi> of Chriſt, that 'tis <hi>reward</hi> enough in its performance to <hi>encourage</hi> any man to the ſervice and employment.</p>
+            <p>And when theſe things are ſeriouſly conſi<g ref="char:EOLhyphen"/>dered, this <hi>Poſition</hi> will be eaſily granted:</p>
+            <p>
+               <hi>That 'tis a</hi> bleſſed thing,<note place="margin">Doct.</note> 
+               <hi>to ſpend and to end our dayes in doing the will of our
+<pb n="8" facs="tcp:33099:10"/>Lord in his ſervice;</hi> — <hi>Bleſſed he when found ſo doing.</hi>
+            </p>
+            <p>This needs no more proof than the <hi>proba<g ref="char:EOLhyphen"/>tion,</hi> our Lord hath ſaid it in the <hi>Text,</hi> and thoſe who have done ſo have found it by experience, and have given in their Teſti<g ref="char:EOLhyphen"/>mony to it.</p>
+            <p>S. <hi>Paul,</hi> 2 Tim. 4.6, 7, 8. <hi>I have finiſhed my courſe, I have kept the Faith, I am now ready, the time of my departure is at hand: Henceforth there is laid up for me a Crown of Righteouſneſs, which the Lord, the righteous Judge ſhall give me at that day,</hi> &amp;c.</p>
+            <p>And the Exhortation he gives to ſuch of the believing <hi>Galatians,</hi> Gal. 6.9. for <hi>en<g ref="char:EOLhyphen"/>couragement,</hi> is to this purpoſe alſo, <hi>Let us not be weary of well doing, for in due ſeaſon we ſhall reap if we faint not.</hi>
+            </p>
+            <p>And <hi>Rom.</hi> 2.7. <hi>To them, who by patient con<g ref="char:EOLhyphen"/>tinuing in well doing, ſeek for glory, and honour, eternal life.</hi> — and laſtly, obſerve what you find, 1 Cor. 15.58. <hi>Wherefore my beloved bre<g ref="char:EOLhyphen"/>thren, be stedfaſt and unmoveable, alwayes abounding in the work of the Lord, for as much as your labour is not in vain in the Lord.</hi>
+            </p>
+            <p>The man who renounceth ungodlineſs
+<pb n="9" facs="tcp:33099:10"/>and worldly luſts, and lives <hi>ſoberly, righteouſly</hi> and <hi>piouſly</hi> in this preſent World, may look for that <hi>bleſſed Hope, (i. e.)</hi> may <hi>hope</hi> for that <hi>Bleſſing</hi> promiſed at the <hi>appearing</hi> of our Lord, <hi>Tit.</hi> 2.12, 13. and ſhall never be diſ<g ref="char:EOLhyphen"/>appointed of his <hi>hope.</hi>
+            </p>
+            <p>Thus you ſee what aſſurance the Goſpel gives, and how fully it confirms, by fre<g ref="char:EOLhyphen"/>quent repetitions, — That 'tis a bleſſed thing to do the will of God, to ſpend and end our days in ſo doing.</p>
+            <p n="2">2. There is another account to be given, why it will prove ſo to the <hi>faithful ſervants</hi> of our Lord.</p>
+            <p n="1">1. For, beſides the <hi>dignity, worth,</hi> and <hi>content</hi> which waits on a <hi>conſtant courſe</hi> of <hi>Godlineſs,</hi> that were there nothing elſe did follow after, yet 'twere enough to <hi>encourage</hi> any man of <hi>reaſon</hi> (that underſtood the na<g ref="char:EOLhyphen"/>ture of <hi>true honour</hi> and <hi>pleaſure</hi>) to become <hi>Religious,</hi> and to <hi>continue</hi> in that <hi>ſervice.</hi> How can it but be eſteemed a <hi>bleſſed thing,</hi> to be <hi>employed</hi> in the appointed affairs of the Lord of glory in his <hi>Court</hi> the Church, about ſuch things which conduce to the <hi>attainment</hi> of the <hi>higheſt advancement</hi> any man is capable
+<pb n="10" facs="tcp:33099:11"/>of, which the <hi>faithful ſervant</hi> may be ſure of without diſappointment.</p>
+            <p>The <hi>attendance</hi> on the greateſt <hi>King</hi> that ever was or ever ſhall be on the earth, is not once to be named with this. The <hi>happineſs</hi> of <hi>Solomon</hi>'s ſervants was extoll'd by the Queen of <hi>Sheba,</hi> (with reference to them and their <hi>employments) Happy are thy men,</hi>
+               <note place="margin">1 King. 10.8.</note> 
+               <hi>happy thoſe thy ſervants which ſtand continually before thee, and that hear thy wiſdom.</hi> — Yet this was but a trivial complement, in com<g ref="char:EOLhyphen"/>pariſon of the ſervants of the <hi>King of glory</hi> who ſtand before him, (as every <hi>faithful, obedient</hi> ſervant of his doth) and employed by our Lord in ſervice infinitely more <hi>gain<g ref="char:EOLhyphen"/>ful,</hi> more <hi>honourable,</hi> and more <hi>grateful.</hi> — And <hi>David,</hi> though a King himſelf, ac<g ref="char:EOLhyphen"/>counted it his greateſt <hi>honour</hi> to be the <hi>ſer<g ref="char:EOLhyphen"/>vant of God,</hi> and admires the <hi>bleſſed ſtate</hi> and <hi>happy condition</hi> of ſuch who are ſo, <hi>Pſal.</hi> 84.4. <hi>Bleſſed are they which dwell in thy houſe,</hi> — and a little after, <hi>verſ.</hi> 10. he profeſſeth, That <hi>he had rather be a door-keeper in the houſe of his God, than to dwell in the tents of wicked<g ref="char:EOLhyphen"/>neſs;</hi> — and he gives the reaſon of it, <hi>v.</hi> 11. <hi>For the Lord God is a ſun and a ſhield</hi> (i. e.)
+<pb n="11" facs="tcp:33099:11"/>(Light and Defence:) <hi>The Lord will give grace and glory, and will with-hold no good thing from them that walk uprightly.</hi>
+            </p>
+            <p n="2">2. And then ſecondly, There is another Conſideration, which will mightily encou<g ref="char:EOLhyphen"/>rage <hi>well doing;</hi> becauſe <hi>in ſo doing,</hi> that ſer<g ref="char:EOLhyphen"/>vant lays a foundation for a <hi>ſpring of Comfort</hi> when he is drawing near his <hi>end;</hi> — when all thoſe evanid Apocryphal <hi>Pleaſures</hi> and <hi>Riches</hi> of the World are vaniſhing, and then nothing but the conſcience of <hi>ſo doing</hi> will ſtand with me for my <hi>refreſhment</hi> and my <hi>teſti<g ref="char:EOLhyphen"/>mony.</hi> When ſhortly I muſt appear before my Lord to give up my <hi>account</hi> of the <hi>ſer<g ref="char:EOLhyphen"/>vice</hi> I was employed in, — if I am able to ſay, I have made it my <hi>chiefeſt buſineſs</hi> and <hi>aim</hi> to <hi>pleaſe</hi> God, and to do what he hath <hi>commanded</hi> and given me to do, without <hi>wil<g ref="char:EOLhyphen"/>ful neglects</hi> or <hi>unfaithfulneſs:</hi> How may ſuch a ferious, ſincere, holy, devout Soul look back with <hi>Comfort,</hi> and forward with <hi>Joy,</hi> in expectation of <hi>Acceptation</hi> with God his Lord and Saviour? — Methinks S. <hi>Paul</hi> ſpeaks to this purpoſe, 2 <hi>Cor.</hi> 1.12. <hi>Our rejoycing is this, the teſtimony of our conſcience; that in
+<pb n="12" facs="tcp:33099:12"/>ſimplicity, and godly ſincerity, we have had our converſation in this world.</hi>
+            </p>
+            <p n="3">3. Then thirdly, Let it be conſidered, when he that ſervant who hath been <hi>faithful</hi> and <hi>conſtant</hi> in <hi>well doing,</hi> abiding therein, ſo doing, to his end, what a bleſſed ſtate is he in when his Lord ſhall call him thence to enter into the <hi>joy of his Lord?</hi>
+               <note place="margin">Mat. 25.21.</note> What an <hi>hap<g ref="char:EOLhyphen"/>pineſs</hi> it is, that at the ſame inſtant he gives out his laſt breath, he is ſeparated from all his <hi>trouble</hi> and <hi>temptations,</hi> and the ſame Death which puts a period to his <hi>life</hi> and <hi>la<g ref="char:EOLhyphen"/>bour,</hi> gives a quick paſſage to his <hi>reſt</hi> and <hi>joy;</hi> his <hi>Faith</hi> ends in <hi>viſion,</hi> his <hi>Hope</hi> in <hi>frui<g ref="char:EOLhyphen"/>tion,</hi> his <hi>Love</hi> removed to a fuller <hi>comprehen<g ref="char:EOLhyphen"/>ſion;</hi> his <hi>Labour</hi> to <hi>Reſt,</hi> his <hi>Sorrow</hi> changed into <hi>Joy:</hi> the <hi>hire</hi> of a <hi>Servant</hi> into the <hi>inhe<g ref="char:EOLhyphen"/>ritance</hi> of a <hi>Son,</hi> the <hi>ſervice</hi> on <hi>Earth</hi> to the <hi>pay</hi> in <hi>Heaven.</hi>
+            </p>
+            <p>What a <hi>Bleſſed thing</hi> it is to be deſigned to, and employed in the <hi>ſervice</hi> of our Lord, to be <hi>about the work</hi> he hath given us to do! to make <hi>Religion</hi> ones <hi>buſineſs,</hi> to <hi>follow</hi> Chriſt fully, to do his <hi>Commands</hi> chearfully, and to be found ſo doing <hi>to the end.</hi> —Death
+<pb n="13" facs="tcp:33099:12"/>temporal, which way ſoever it comes, or at what time ſoever it comes,<note place="margin">Ecclus. 7.1, 2</note> cannot be hurt<g ref="char:EOLhyphen"/>ful; The day of ſuch a mans <hi>death</hi> is better than the day wherein he was <hi>born,</hi>
+               <note place="margin">Rev. 14.13.</note> for 'tis but a going off from <hi>trouble,</hi> where is little <hi>reſt,</hi> to that <hi>rest</hi> where there is no <hi>trouble;</hi> 'tis but a ceaſing from being with <hi>men</hi> and <hi>ſin,</hi>
+               <note place="margin">Heb. 12.22, 23.</note> to be with <hi>Chriſt, Angels,</hi> and <hi>Saints</hi> in Hea<g ref="char:EOLhyphen"/>ven; and that which is <hi>beſt</hi> of all,<note place="margin">1 Theſſal. 4.17.</note> to be <hi>for ever</hi> with the Lord.</p>
+            <p>Oh <hi>happy</hi> and <hi>bleſſed</hi> is that ſervant whom the Lord finds <hi>ſo doing!</hi> who gives him an inlett to immortal immixed <hi>Joyes,</hi> and eter<g ref="char:EOLhyphen"/>nal never expiring <hi>Felicities.</hi>
+            </p>
+            <p>
+               <hi>The ſouls of the righteous are in the hand of God, and there ſhall no torment touch them;</hi>
+               <note place="margin">Wiſd. 3.1, 2, 3, 4, 5.</note> In the ſight of the <hi>unwiſe</hi> they ſeemed to <hi>dye,</hi> and their departure is taken for <hi>miſery,</hi> and their going from us to be <hi>utter deſtruction;</hi> but they are in <hi>peace,</hi> and their hope is full of <hi>immortality;</hi> for God <hi>proved</hi> them, and found them <hi>prepared</hi> for himſelf.</p>
+            <p>Thus ſhall every faithful ſervant of our Lord be Bleſſed, <hi>whom the Lord when he cometh ſhall find ſo doing.</hi>
+            </p>
+            <div type="application">
+               <pb n="14" facs="tcp:33099:13"/>
+               <head>The Application.</head>
+               <p>I ſhall diſpatch what I have further to ſpeak of this matter, —when you ſhall receive
+<list>
+                     <item>I. <hi>Inſtruction,</hi>
+                     </item>
+                     <item>II. The <hi>Warning,</hi>
+                     </item>
+                     <item>III. The <hi>Invitation;</hi>
+                     </item>
+                  </list> which this whole affair affords for our ſe<g ref="char:EOLhyphen"/>rious Conſideration.</p>
+               <p n="1">I. <hi>Inſtruction.</hi>
+               </p>
+               <p n="1">1. Firſt of all, let every one know and take notice, That he is a <hi>Servant,</hi> that Chriſt is our <hi>Lord;</hi> he hath given us our <hi>Work</hi> to do, he expects we ſhould be <hi>doing.</hi> The Work we have to do in reference to the Bleſſing promiſed is not <hi>Worldly,</hi> but <hi>Heaven<g ref="char:EOLhyphen"/>ly,</hi> the affairs of our Souls in order to <hi>Eter<g ref="char:EOLhyphen"/>nity,</hi> they muſt be done in their <hi>ſeaſon,</hi> as the Lord hath appointed, and we muſt be doing them <hi>while we live.</hi>
+               </p>
+               <p>Our Lord is <hi>coming,</hi> (though we think he delays) he will be with us <hi>quickly,</hi> and every one of us ſhall be called to <hi>account</hi> in parti<g ref="char:EOLhyphen"/>cular: What haſt thou done? What art thou
+<pb n="15" facs="tcp:33099:13"/>doing? If he find thee idle, ſlothful, negligent, he will caſt thee off as Unprofita<g ref="char:EOLhyphen"/>ble; if he find thee working evil, doing ini<g ref="char:EOLhyphen"/>quity, thy portion will be the Rebuke and Deſtruction of evil doers, and Puniſhments threatned to the workers of iniquity.</p>
+               <p>But if thy doings be good, thy diſpoſitions right, thy intentions holy, thy Faith active, thy Repentance ſincere, thy Piety great, thy Duties frequent, thy Lamp furniſhed, thy Light ſhining in <hi>Good works,</hi> thy chief and conſtant employment be <hi>Religion,</hi> in thoſe inſtances where <hi>Religion</hi> is concern'd; and this be the <hi>babitual</hi> frame of thy Soul, to be always ready to every good work of Piety, Juſtice, Charity, and every Chriſtian duty where our Lord calls for <hi>Obedience</hi> in any inſtance of <hi>Service:</hi> — Then when ever our Lord comes, the <hi>Bleſſing</hi> comes with him, and that Servant <hi>ſo doing</hi> ſhall be <hi>bleſſed</hi> and made <hi>happy.</hi>
+               </p>
+               <p>But alas! What have we (for the moſt part) been doing ſince firſt we were admit<g ref="char:EOLhyphen"/>ted to, and engaged in our Lords <hi>ſervice?</hi> hath there a day paſt wherein we have not done ſome <hi>ſervice</hi> to Satan, World, or
+<pb n="16" facs="tcp:33099:14"/>Fleſh? And how many days have paſt over our heads wherein we have ſcarce had a good thought of God, or of our duty? and did nothing at all worthy the name of a <hi>ſervant</hi> of Chriſt?</p>
+               <p>Do not moſt men live as though they were <hi>priviledg'd perſons,</hi> exempt from Duty and Service? and as if they were never to give account of their Talents and improve<g ref="char:EOLhyphen"/>ment of them?</p>
+               <p>What abundance of induſtrious Labour do moſt men lay out themſelves in about the affairs of this World? and take more pains to gratiſie <hi>ſenſualities</hi> and <hi>beaſtly appe<g ref="char:EOLhyphen"/>tites</hi> to their <hi>undoing,</hi> ſo working out their own <hi>Damnation?</hi> than in doing the <hi>will of God,</hi> and working out their <hi>Salvation?</hi> But with what face can ſuch Servants expect an <hi>Enge</hi> from their Lord, that either neglect the ſervice, or do things contrary to the <hi>In<g ref="char:EOLhyphen"/>junctions</hi> of their Lord? And how ſhall ſuch be able to look our Maſter in the face at the <hi>evening</hi> of our <hi>Life,</hi> who have been <hi>loytering</hi> or <hi>ryoting</hi> all the <hi>day?</hi>
+               </p>
+               <pb n="17" facs="tcp:33099:14"/>
+               <p n="2">2. Secondly, Let this then be for a <hi>Warning</hi> and an <hi>awakening</hi> to us all, leſt Death ſhould ſurprize us e're our <hi>work</hi> be done, or while we are <hi>trifling,</hi> ſpeedily to ſet our ſelves to practiſe <hi>good things</hi> while every mans <hi>opportunity</hi> laſteth, and no man can tell how long it will laſt: It may be very ſhortly our Lord may <hi>ſend</hi> for us by <hi>Death</hi> to <hi>meet</hi> him, <hi>the Lord is at hand,</hi> and the <hi>Books</hi> are opening wherein all our <hi>deeds</hi> are <hi>recorded,</hi> and 'tis but a very <hi>little time</hi> e're <hi>we must all appear at the Judgement ſeat of Chriſt, that every one may be judged,</hi>
+                  <note place="margin">2 Cor. 5.10.</note> 
+                  <hi>and re<g ref="char:EOLhyphen"/>ceive according to that he hath done, whether it be good or bad;</hi> — and then, <hi>happy</hi> the man only that ſhall be found <hi>well doing.</hi> Within a few dayes (perhaps hours) it will <hi>infallibly</hi> be every ones lot to <hi>exchange</hi> this Life for another, a <hi>better</hi> or a <hi>worſe,</hi> as this our ex<g ref="char:EOLhyphen"/>cellent Brother hath ſhewn us; and 'twill be our wiſdom, to <hi>prepare</hi> for it as he did; that though it come in the day or in the night, ſlowly or ſwiftly, in our <hi>working</hi> or in our <hi>waiting</hi> we may be <hi>ready</hi> for it, that our <hi>change</hi> may be for the better, and not for the
+<pb n="18" facs="tcp:33099:15"/>worſe; That <hi>the day of death</hi> may <hi>be better than the day wherein we were born.</hi>
+                  <note place="margin">Eccleſ. 7.1.</note>
+               </p>
+               <p n="3">3. Thirdly, To which <hi>Preparation</hi> I would (in the laſt place) <hi>invite</hi> and <hi>exhort</hi> you:</p>
+               <p n="1">1. And firſt, If thou would<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt be <hi>fit</hi> to <hi>dye,</hi> and <hi>prepared</hi> for thy <hi>death,</hi> and <hi>ready</hi> for the <hi>coming</hi> of our Lord, and deſireſt to be <hi>bleſſed,</hi> then be perſwaded to a ſerious, con<g ref="char:EOLhyphen"/>ſtant courſe and exerciſe of <hi>Religion</hi> as our Lord hath taught and commanded; for let no man think to be <hi>Bleſſed</hi> that is not found in that ſtate to which the Promiſe is made.</p>
+               <p>Let him therefore give up himſelf to an <hi>holy life</hi> according to the will of God; — And let him for ever caſt off the <hi>works of darkneſs,</hi> and ceaſe from doing <hi>evil;</hi> let him give over <hi>ſinning wilfully,</hi>
+                  <note place="margin">Iſa. 1.16. Job 11.11, 12. &amp; 34.32</note> and <hi>doing fooliſhly,</hi> and do no more ſuch things; let him deny and renounce with great reſolution all <hi>ungodlineſs</hi> and <hi>worldly luſts,</hi> and reſolve upon a Sober, Righteous, and Godly Life, as we are taught <hi>Tit.</hi> 2.12. And let every man be careful,<note place="margin">Tit. 2.12.</note> as much as he can, ſo to <hi>order his Converſation,</hi> that he be not found either <hi>over-charged</hi> with the <hi>cares</hi> of the World, or with <hi>ſurfetting</hi> and <hi>drunkenneſs,</hi> or <hi>wronging</hi> our <hi>fellow-ſervants,</hi>
+                  <pb n="19" facs="tcp:33099:15"/>as our Lord hath warned,<note place="margin">Luke 21.34.</note> 
+                  <hi>Luke</hi> 21.34. and ſo that Day come upon you <hi>unawares.</hi> And think this with thy ſelf, Would I be found at any time doing that which is <hi>ſinful</hi> in it ſelf, or that may prove of <hi>evil example</hi> to others when I am gone?</p>
+               <p n="2">2. And then ſecondly for <hi>Practicals,</hi> that thou mayſt be <hi>at all times</hi> prepared.</p>
+               <p>And let no man think that the buſineſs of <hi>Religion,</hi> the <hi>ſervice</hi> of our Lord can be acceptably done <hi>by the bye,</hi> or when we have nothing elſe to do; or to be <hi>put off</hi> to ſuch a time when we can do nothing but groan under <hi>pains,</hi> and dye. But if we mean to be <hi>prepared,</hi> let us do what we have in <hi>duty,</hi> let us do it now in health, and <hi>with our strength,</hi> as we are counſelled <hi>Ecclus.</hi> 9.10. <hi>That which thy hand findeth to do,</hi>
+                  <note place="margin">Ecclus. 9.10.</note> 
+                  <hi>do it with thy might, for there is no work nor wiſdom in the grave whither thou goeſt;</hi> and our Duty is told us, <hi>Ecclus.</hi> 12.13. <hi>To fear God, and to keep his Commandments, this is the whole duty of man.</hi>
+               </p>
+               <p>Now this Conſideration <hi>invites</hi> us all to be doing ſuch <hi>Duties</hi> which are neceſſary,</p>
+               <p n="1">1. Firſt, in reſpect of God, To perform conſtantly thoſe acts of <hi>true</hi> and <hi>devout</hi>
+                  <pb n="20" facs="tcp:33099:16"/>Worſhip, Obedience, and Love to him, freely, willingly, and with all chearfulneſs. 2. Secondly, in reſpect of our ſelves, ne<g ref="char:EOLhyphen"/>ceſſary for us to do; To ſubdue our own evil diſpoſitions, to mortifie our own cor<g ref="char:EOLhyphen"/>ruptions, to Repent to amendment of life, to <hi>rectifie</hi> the <hi>diſorders</hi> and <hi>irregularities</hi> of our <hi>Paſſions,</hi> and to be <hi>fruitful</hi> in Good works. 3. Thirdly, in reſpect of others; To do good to as many as we can, to their Souls, by <hi>inſtructing</hi> them, and <hi>perſwading</hi> to Piety and a Religious converſation, by <hi>Pre<g ref="char:EOLhyphen"/>cept</hi> and <hi>Example;</hi> and to their Bodies, by <hi>relieving</hi> them in their <hi>neceſſities, viſiting</hi> them in their <hi>ſickneſs,</hi> by <hi>delivering</hi> them (as we are able) out of <hi>bondage</hi> and <hi>oppreſ<g ref="char:EOLhyphen"/>ſions,</hi> and <hi>praying</hi> to God for them in every condition.</p>
+               <p>And to conclude, let every Chriſtian be doing ſuch things as are True;<note place="margin">Phil. 4.8.</note> 
+                  <hi>Whatſoever things are honeſt, whatſoever things are juſt, whatſoever things are pure, whatſoever things are lovely, and whatſoever things are of good report,</hi> let every one reſolve upon ſuch things, and be doing accordingly all <hi>vir<g ref="char:EOLhyphen"/>tuous</hi> acts; that when-ever Death comes,
+<pb n="21" facs="tcp:33099:16"/>either <hi>hastily</hi> or <hi>gradually,</hi> it may find thee in ſuch a frame and diſpoſition, or in ſome <hi>good action,</hi> or ſoon after it: And then how comfortably might Chriſtians live in <hi>expectation</hi> of Chriſts <hi>ſpeedy coming,</hi> and how <hi>happy</hi> might they be in their <hi>End</hi> with ſuch <hi>preparation!</hi> and as <hi>Tertullian</hi> obſerved in the Primitive Chriſtians, that they were <hi>expeditum morti genus,</hi> a people alwayes pre<g ref="char:EOLhyphen"/>pared for Death; ſo is every Holy man.</p>
+               <p>Of which ſort was this Excellent perſon deceaſed, this once <hi>ſhining Light</hi> now ex<g ref="char:EOLhyphen"/>tinguiſhed, who both as a Divine and a Chriſtian, hath given ample <hi>Teſtimony</hi> and left a good <hi>Example;</hi> who <hi>faithfully</hi> ſerved his Maſter, and was <hi>found ſo doing.</hi>
+               </p>
+               <p>Concerning whom you may juſtly expect very <hi>Excellent things</hi> might be ſpoken, I may not therefore diſmiſs this great Convention in this <hi>Houſe of great mourning</hi> without ſome Remarques about the <hi>ſubject</hi> of this Occa<g ref="char:EOLhyphen"/>ſion; and indeed, when we have to ſpeak of Doctor BRETON, no man need rack his Invention for things <hi>Worthy</hi> to be ſaid, and if a Tongue like <hi>His</hi> (once) had this em<g ref="char:EOLhyphen"/>ployment, <hi>words</hi> would flow <hi>apt</hi> &amp; <hi>charming.</hi> —<hi>But we muſt do as we can.</hi>
+               </p>
+               <pb n="22" facs="tcp:33099:17"/>
+               <p n="1">1. This Excellent perſon was Born in <hi>London,</hi> the great and ſplendid <hi>Metropolis</hi> of <hi>England,</hi> Anno Dom. 1628. — and 'tis no diminution to its Grandeur, when it is ſaid, That <hi>this Man was Born there.</hi>
+               </p>
+               <p n="2">2. The Univerſity of <hi>Cambridge</hi> had the good luck to <hi>nurſe</hi> him, to which he carried a <hi>prompt</hi> Wit and <hi>pregnant</hi> Parts, improved with what inferiour <hi>Schools</hi> could furniſh him.</p>
+               <p>From thence he came with a ſtock of Humane Learning and Sacred Knowledge, an excellent <hi>Scholar</hi> and Learned, to make an able <hi>Divine.</hi>
+               </p>
+               <p>His <hi>Honorary Degrees</hi> were not above his Merits, he was as much a <hi>grace</hi> to his Title, as <hi>Doctor</hi> to him.</p>
+               <p>When he was called to the <hi>Sacred Fun<g ref="char:EOLhyphen"/>ction,</hi> he engaged in this <hi>Miniſtry</hi> and the Duty too, he had a Commiſſion to <hi>Preach</hi> the Goſpel, and he laboured abundantly and inſtantly, not of force, but of Choice, he did it <hi>willingly,</hi> not ſo much by any other con<g ref="char:EOLhyphen"/>ſtraint as that of <hi>love</hi> to his Maſter Chriſt, and the Souls of men; and yet he remembred alſo, — <hi>Wo unto me, if I preach not the Goſpel.</hi>
+               </p>
+               <p>He was rarely qualified for an <hi>excellent Di<g ref="char:EOLhyphen"/>vine,</hi>
+                  <pb n="23" facs="tcp:33099:17"/>Gifts <hi>from above,</hi> good and perfect, pure and peaceable, ſober, juſt, holy, temperate, and apt to <hi>Teach.</hi> He alwayes <hi>held faſt</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>the model and expreſs form of Sound words</hi> in Faith and Charity;<note place="margin">2 Tim. 1.3.</note> in oppo<g ref="char:EOLhyphen"/>ſition to all growing <hi>Hereſies</hi> and <hi>Arts</hi> of men of corrupt minds and evil manners, and kept the <hi>Depoſitum</hi> as a faithful Steward, and wiſe Maſter-Builder, without <hi>wavering</hi> or <hi>ſhifting,</hi> a Workman he was that needed not be aſhamed, <hi>rightly dividing the Word of Truth.</hi>
+               </p>
+               <p>O how would he uſe the <hi>ſpiritual Sword</hi> of <hi>Truth!</hi> piercing to the quick (as need requi<g ref="char:EOLhyphen"/>red) <hi>dividing ſoul and ſpirit,</hi>
+                  <note place="margin">Heb. 4.14.</note> 
+                  <hi>joynts and mar<g ref="char:EOLhyphen"/>row;</hi> between <hi>Reaſon</hi> and <hi>Paſſion,</hi> the <hi>rational</hi> and the <hi>animal</hi> faculties; chaſing <hi>Sin</hi> in its ſhifts and retirements, and then forcing it from its <hi>ſtrong hold</hi> again, and leaving it no place to reſt in!</p>
+               <p>How would he by the <hi>Word of Grace</hi> alſo, <hi>bind up</hi> the <hi>broken bone,</hi> apply <hi>Oyl</hi> to the <hi>Wound,</hi> and gently pour it in, ſo <hi>comforting</hi> the dejected, and <hi>refreſhing</hi> the wearied <hi>faint<g ref="char:EOLhyphen"/>ing Soul,</hi> ſpeaking a word in due ſeaſon, of <hi>counſel, comfort,</hi> and <hi>direction!</hi>
+               </p>
+               <p>He had <hi>milk</hi> for <hi>babes,</hi> and <hi>ſtronger meat</hi> for men <hi>grown up</hi> to a ſtature in <hi>Religion.</hi>
+               </p>
+               <pb n="24" facs="tcp:33099:18"/>
+               <p>He had his Talents by <hi>gift,</hi> and improved them by <hi>induſtry.</hi>
+               </p>
+               <p>He had the Art of <hi>winning</hi> Souls, and was <hi>ſucceſsful</hi> in his attempts this way.</p>
+               <p>I have reaſon to hope that many of you can ſay, he was your <hi>ſpiritual Father,</hi> and happy <hi>inſtrument,</hi> under God, of your <hi>bringing in,</hi> and <hi>building up</hi> in Chriſt; you are his Epi<g ref="char:EOLhyphen"/>ſtle (as S. <hi>Paul</hi> ſpeaks) <hi>known and read of all men;</hi>
+                  <note place="margin">2 Cor. 3.2.</note> or rather, the Epiſtle of Chriſt mini<g ref="char:EOLhyphen"/>ſtred by him.</p>
+               <p>He was a Preacher indeed, <hi>ſolid</hi> and <hi>fre<g ref="char:EOLhyphen"/>quent;</hi> he preached <hi>every day</hi> by Voice or Example, in ſeaſon, out of ſeaſon; in the Morning ſowing <hi>good Seed,</hi> and in the Evening ſlacked not his hand.</p>
+               <p>How <hi>dexterouſly</hi> would he <hi>evidence</hi> the <hi>my<g ref="char:EOLhyphen"/>ſteries</hi> of Religion, and <hi>deep things</hi> of God to the underſtanding? How <hi>ſweetly</hi> would he <hi>inſinuate</hi> a Duty, and <hi>win</hi> upon the affection of his hearers?</p>
+               <p>He ſeemed to have very much the <hi>command</hi> of the <hi>judgements</hi> and <hi>affections</hi> of many, and could turn the Scale, where men were not prepoſſeſſed with <hi>prejudice,</hi> or engaged in a <hi>contrary intereſt.</hi>
+               </p>
+               <pb n="25" facs="tcp:33099:18"/>
+               <p>I have ſometime thought, that the People of <hi>this place</hi> could not be tempted to a <hi>Corin<g ref="char:EOLhyphen"/>thian</hi> Schiſm, I am of <hi>Paul,</hi> I of <hi>Apollo,</hi> I of <hi>Cephas;</hi> — for what would men have?</p>
+               <p>If <hi>perſpicuity, plainneſs,</hi> and <hi>powerfulneſs?</hi> if <hi>ſolidity, profoundneſs,</hi> and <hi>piercingneſs?</hi> if <hi>Eloquence</hi> in apt and well ordered words? if <hi>variety</hi> (with congruity to the <hi>Apoſtolical</hi> Faith <hi>once delivered to the Saints?</hi>) if <hi>fre<g ref="char:EOLhyphen"/>quency</hi> and <hi>constancy</hi> every Lords day?</p>
+               <p>If any of theſe, or all theſe together might be motives, why then ſhould men be <hi>tempted</hi> to ſeek <hi>others</hi> in other places? while <hi>all theſe</hi> might be had here, while this Servant of Chriſt was in this Mount, here <hi>Praying,</hi> here <hi>Preaching</hi>
+               </p>
+               <p>Thus was he <hi>called,</hi> thus was he <hi>qualified</hi> for a Miniſter and a Preacher.</p>
+               <p>And then alſo, he was <hi>conſtant</hi> to his <hi>truſt</hi> and <hi>labour,</hi> as ſoon as he was entred on the Office, he kept his ſtation and bore the heat of the day; and his Pulpit (in moſt <hi>dan<g ref="char:EOLhyphen"/>gerous</hi> times,) and his <hi>Loyalty</hi> too, under <hi>re<g ref="char:EOLhyphen"/>proaches</hi> and <hi>menaces</hi> from that kind of men then, and weathered it out, keeping a <hi>good Conſcience,</hi> while others hid their heads, and
+<pb n="26" facs="tcp:33099:19"/>fled, (leaving their Flocks to the power of <hi>Seduction</hi>) for ſhame or for fear: But this man thought, <hi>Shall ſuch a man as I flye?</hi> and <hi>stayed.</hi>
+               </p>
+               <p>Well, he was for theſe things, as a Mini<g ref="char:EOLhyphen"/>ſter (let me ſpeak a big word) <hi>A man of Re<g ref="char:EOLhyphen"/>nown,</hi> highly eſteemed in City and Countrey, beloved of good men, one of the <hi>chief</hi> among the Clergy, ſo he was. And if this be not ſo, let <hi>malice</hi> and <hi>envy</hi> accuſe me if it can. —</p>
+               <p>Let me appeal to you, to you his <hi>ſorrowful</hi> Flock.</p>
+               <p>Was he not a <hi>good man?</hi> was he not <hi>care<g ref="char:EOLhyphen"/>ful</hi> of you? was he not <hi>courteous</hi> and <hi>kind</hi> to you? was he not <hi>charitable</hi> and <hi>helpful?</hi> did he not ſeek your <hi>good,</hi> your <hi>peace,</hi> your <hi>ſafety</hi> in very many inſtances?</p>
+               <p>You have not forgotten the dreadful <hi>Sick<g ref="char:EOLhyphen"/>neſs,</hi> how then he <hi>ſtayed</hi> with you in <hi>danger</hi> enough; how he <hi>viſited</hi> ſick Families, and <hi>relieved</hi> the Poor. — You remember what an <hi>Advocate</hi> he was, pleading with God in <hi>Prayer</hi> for you; how he pleaded with men abroad for <hi>Relief</hi> in your <hi>neceſſities,</hi> — and was heard and <hi>prevailed;</hi> ſo that you had
+<pb n="27" facs="tcp:33099:19"/>
+                  <hi>ſupplies</hi> abundantly. You cannot but know<g ref="char:punc">▪</g> that he was at <hi>daily</hi> expences at his <hi>own coſts</hi> for your ſakes; how uſeful, how helpful and induſtrious in <hi>reconciling</hi> differences, and making <hi>peace</hi> among you!</p>
+               <p>And it muſt not be forgotten, that his great <hi>abilities,</hi> frequent <hi>emergencies,</hi> ex<g ref="char:EOLhyphen"/>cellent <hi>Charity,</hi> and a perfect <hi>good nature,</hi> were one great invitation of every bodies <hi>appli<g ref="char:EOLhyphen"/>cations</hi> to him; which gave him conſtant work, and much buſineſs, able to have cruſh'd a man of ordinary ſtrength under theſe Affairs.</p>
+               <p>And now, if a ſtranger ſhould ask me, what <hi>Preferments</hi> this Worthy man had?</p>
+               <p>I quickly reply, he had <hi>as much</hi> as per<g ref="char:EOLhyphen"/>haps he <hi>deſired;</hi> he <hi>pickeer'd</hi> not Advance<g ref="char:EOLhyphen"/>ments, but was as ready to <hi>decline,</hi> as others are to <hi>purſue</hi> them.</p>
+               <p>
+                  <hi>Deptford</hi> was his <hi>chief,</hi> this was his <hi>content,</hi> here he thought he had <hi>Work</hi> enough, and <hi>Love</hi> enough.</p>
+               <p>He would often ſay no me of his <hi>Deptford,</hi> ſo contentedly, that made me think that this (and his full employment here) was his <hi>Darling,</hi> and he would not change it for
+<pb n="28" facs="tcp:33099:20"/>a <hi>Chair</hi> of <hi>Eaſe</hi> &amp; <hi>Honour;</hi>
+                  <note place="margin">1 Theſl. 2.19.</note> like that of S. <hi>Paul, My crown and rejoycing are ye in the Lord.</hi>
+               </p>
+               <p>His Reſolution was, (as he told me) never to leave <hi>Deptford,</hi> and you ſee he kept his Reſolution to his dying day.</p>
+               <p>But alas! Is this <hi>good man</hi> dead? this <hi>emi<g ref="char:EOLhyphen"/>nent, uſeful</hi> Servant of CHRIST dead?</p>
+               <p>Yes! He is <hi>Dead</hi> to you, and to your great <hi>loſs,</hi> and to all our <hi>grief;</hi> he is gone to his <hi>joy,</hi> and hath left us in <hi>mourning</hi> and <hi>tears.</hi>
+               </p>
+               <p>I may ſay with the <hi>Prophet</hi> ſo far, that <hi>The righteous and merciful man is taken away,</hi>
+                  <note place="margin">Iſa. 57.1.</note> but I cannot ſay (of his <hi>departure</hi>) <hi>that no man layeth it to heart,</hi> while I ſee and hear ſo many <hi>weeping</hi> and <hi>lamenting</hi> the loſs of <hi>this Man.</hi>
+               </p>
+               <p>I confeſs, that there were Three mens <hi>deaths</hi> which came near my Heart; my So<g ref="char:EOLhyphen"/>vereign King <hi>Charles</hi> the Firſt, my Spiritual Father <hi>James</hi> Archbiſhop of <hi>Armagh,</hi> and this my dear <hi>Breton.</hi>
+               </p>
+               <p>And now, O ye people of <hi>Deptford,</hi> happy once in ſuch a <hi>Paſtor,</hi> — now unhappy by ſo great a <hi>loſs;</hi> God ſent him a <hi>bleſſing</hi> to this place, but think whether his <hi>remove</hi> from you be not a <hi>puniſhment</hi> to you?</p>
+               <pb n="29" facs="tcp:33099:20"/>
+               <p>His <hi>Remove</hi> hath left a dear Wife <hi>ſorrow<g ref="char:EOLhyphen"/>ing,</hi> ſweet Children <hi>weeping,</hi> and an aged Fa<g ref="char:EOLhyphen"/>ther <hi>lamenting:</hi> Ah! my Husband, my Fa<g ref="char:EOLhyphen"/>ther, my Son, and multitudes that put in their claim to <hi>partake</hi> with their <hi>griefs:</hi> Ah! our <hi>Paſtor,</hi> our <hi>Guide,</hi> our <hi>Friend!</hi>
+               </p>
+               <p>I perceive I need not invite you to <hi>tears,</hi> your eyes and countenances ſhew your <hi>ſorrows.</hi>
+               </p>
+               <p>And methinks 'tis with you as once with the Believers, recorded <hi>Acts</hi> 20. at <hi>S. Paul</hi>'s departure from them, <hi>They wept bitterly,</hi>
+                  <note place="margin">Acts 20.37, 38.</note> 
+                  <hi>ſor<g ref="char:EOLhyphen"/>rowing moſt of all, that they ſhould ſee his face no more.</hi>
+               </p>
+               <p>Ah Sirs! you ſhall ſee his Face <hi>no more</hi> here ſtanding, nor hear his Voice more hence ſpeaking, nor in your Families any more Vi<g ref="char:EOLhyphen"/>ſiting, nor in your Companies any more Conferring, nor in your Diſtreſſes any more Comforting or Relieving: — Yet weep no more for him, he is <hi>happy;</hi> but for your ſelves, becauſe the Church is deprived of ſo <hi>worthy</hi> a <hi>Son,</hi> and you of ſo <hi>good</hi> a <hi>Pastor,</hi> ſo <hi>good</hi> a <hi>Friend,</hi> ſo <hi>good</hi> a <hi>Man.</hi>
+               </p>
+               <p>If you enquire of his <hi>Death,</hi> becauſe it ſeemed to us to be ſomewhat <hi>haſty;</hi> 'tis true,
+<pb n="30" facs="tcp:33099:21"/>he had but one great <hi>Paroxyſm</hi> of an hour, which <hi>ended</hi> his Life, a ſigh, a groan, and an expiration; yet let no man think this a <hi>ſur<g ref="char:EOLhyphen"/>prize</hi> that fetch'd him away to Heaven with<g ref="char:EOLhyphen"/>out much ado: They dye <hi>ſuddenly</hi> that live <hi>wickedly,</hi> ſuch dye <hi>all at once,</hi> but he that dyes <hi>daily;</hi> though he be not ſick every day, yet dyes by degrees, and is every day in expecta<g ref="char:EOLhyphen"/>tion of it; perhaps a tedious Sickneſs may make a man more <hi>willing</hi> to dye, but not more <hi>fit,</hi> unleſs his former life hath been a virtuous, holy <hi>preparation</hi> both for a bed of <hi>Sickneſs</hi> and the gate of <hi>Death.</hi>
+               </p>
+               <p>
+                  <hi>Elijah</hi> was a man of God,<note place="margin">2 King. 2.1.</note> and he was ſnatcht to Heaven in a whirlwind; <hi>Enoch</hi> walked with God every day, and in an hour was taken away to Heaven, in a moment as it were. Let no man think that Death to an <hi>Holy man,</hi> come it when, or where, or how ſoever; can be a diſadvantage; let it come by day or by night, abroad or at home, if a mans habitual frame, intentions and de<g ref="char:EOLhyphen"/>ſigns be <hi>juſt, holy, heavenly, good,</hi> this man dyes well enough: Unhappy we, if a man could not be ſaved unleſs he dyed aged or waſted by a tedious ſickneſs, a Conſumption
+<pb n="31" facs="tcp:33099:21"/>or an Ague. Surely if a <hi>good mans</hi> Tranſla<g ref="char:EOLhyphen"/>tion be from perfect health and ſtrength, he hath no wrong done him, a pang of an hour that begins and ends his pain, is rather a mark of <hi>favour</hi> than diſpleaſure.</p>
+               <p>Tell me, Oh men of ſowre Cenſure! Is it not a <hi>deſirable poſture</hi> to be found in, when a ſervant of Chriſt is found <hi>doing the work of his Maſter?</hi>
+               </p>
+               <p>This Servant of Chriſt was all that day he dyed (as he was many dayes in the like) <hi>faſting</hi> and <hi>praying,</hi> and preparing for <hi>Preach<g ref="char:EOLhyphen"/>ing</hi> the next day, and the next to that; and, as though he had a ſight of the approaching cloſure of his life with the day, <hi>bleſſed</hi> his Children ſolemnly, and gave them ſuch <hi>directions</hi> (as they were capable of) charging them to <hi>ſerve God,</hi> and be <hi>pious,</hi> to be <hi>obedi<g ref="char:EOLhyphen"/>ent</hi> to their <hi>Mother,</hi> &amp;c. ſaying withal, It may be I may ſee you no more after this, and ſaid, I wiſh I were now in Heaven: Who would not deſire to be in ſuch a frame as this, if he thought his <hi>appointed time</hi> was at hand.</p>
+               <p>Thus he dyed; and I am perſwaded, and I think all good people are ſo too, <hi>That the
+<pb n="32" facs="tcp:33099:22"/>day of this mans death was better than that wherein he was born,</hi> and his Change <hi>happy,</hi> and of <hi>infinite advantage</hi> to him, for he is in <hi>peace</hi> and <hi>bliſs,</hi> and thouſands might be well <hi>con<g ref="char:EOLhyphen"/>tented</hi> to dye as he did, were they ſo well <hi>prepared</hi> as he was.</p>
+               <p>And now, if you would ſhew <hi>reſpects</hi> to his Memory, and <hi>kindneſs</hi> to your ſelves, Then,</p>
+               <p>Stand faſt in the Faith he taught you, waver not, ſhift it not; Remember his pious and heavenly Exhortations and Counſels, and reduce them to <hi>Practice;</hi> for that, and ſo much of Religion which you <hi>practiſe,</hi> will do you good, and no more nor elſe. — And let every one that would <hi>dye happily,</hi> let him endeavour every day to be <hi>prepared</hi> for it, and not deferr becauſe of health; for Death may come at Sun <hi>riſing,</hi> as well as at the <hi>ſetting</hi> thereof.</p>
+               <p>
+                  <hi>To the High and moſt Glorious GOD, the lover of Souls, and the rewarder of his faithful Servants, be all Praiſe and Glory for ever.</hi> Amen.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:33099:22"/>
+         </div>
+      </body>
+   </text>
+</TEI>
